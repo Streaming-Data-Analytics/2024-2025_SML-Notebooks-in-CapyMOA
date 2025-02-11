@@ -21,8 +21,8 @@ This project aims to reproduce the tutorial notebooks of CapyMOA and compare the
 ## Datasets
 To ensure a fair comparison between the two libraries, standard datasets for Streaming Machine Learning will be used. Some suggested datasets are:
 - *Electricity:* a classification problem based on the Australian New South Wales Electricity Market
-- *Airlines:* it contains the forest cover type for 30 x 30 meter cells obtained from US Forest Service (USFS) Region 2 Resource Information System (RIS) data.
-- *Covertype:* a regression problem based on the Friedman dataset.
+- *Covertype:* it contains the forest cover type for 30 x 30 meter cells obtained from US Forest Service (USFS) Region 2 Resource Information System (RIS) data.
+- *Fried:* a regression problem based on the Friedman dataset.
 - *Synthetic datasets:* artificially generated datasets to evaluate specific aspects of streaming learning algorithms.
 
 ## Methodologies/models to apply
