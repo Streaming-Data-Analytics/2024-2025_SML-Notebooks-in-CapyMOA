@@ -31,7 +31,7 @@ To ensure a fair comparison between the two libraries, standard datasets for Str
 ## Evaluation metrics
 The metrics used for comparison will be:
 - *Run-time:* measurement of the time required to complete training and prediction.
-- *Performance metrics:* metrics to assess the quality of the model.
+- *Performance metrics:* to assess the quality of the model.
 - *Memory Utilization:* amount of RAM required during execution.
 - *CPU Utilization:* computational load generated.
 
