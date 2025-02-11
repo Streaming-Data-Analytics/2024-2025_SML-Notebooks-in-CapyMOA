@@ -38,7 +38,7 @@ The metrics used for comparison will be:
 ## Deliverable
 At the end of the project, the student should deliver:
 - Notebooks containing:
-- - A reproduction of the CapyMOA tutorials.
+  - A reproduction of the CapyMOA tutorials.
   - Comparison with implementations in River.
   - Analysis of performance and computational costs.
 - A section with proposals for features that could be added to CapyMOA, taking inspiration from River.
