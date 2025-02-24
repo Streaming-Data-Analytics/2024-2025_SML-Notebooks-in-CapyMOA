@@ -25,9 +25,6 @@ To ensure a fair comparison between the two libraries, standard datasets for Str
 - *Fried:* a regression problem based on the Friedman dataset.
 - *Synthetic datasets:* artificially generated datasets to evaluate specific aspects of streaming learning algorithms.
 
-## Methodologies/models to apply
-//
-
 ## Evaluation metrics
 The metrics used for comparison will be:
 - *Run-time:* measurement of the time required to complete training and prediction.
