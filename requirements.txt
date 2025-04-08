@@ -1,0 +1,7 @@
+torch==2.2.2
+torchvision==0.17.2
+pyarrow==14.0.2
+capymoa==0.9.0
+ipykernel==6.29.5
+river==0.22.0
+scikit-learn==1.6.1
