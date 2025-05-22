@@ -4,6 +4,8 @@ Optional project of the [Streaming Data Analytics](http://emanueledellavalle.org
 
 Student: Sebastian Ballesteros (10945208)
 
+Final presentation link: https://www.canva.com/design/DAGkgk0WPu4/ZVpTionxGsxBxhRwHM-0_Q/edit?utm_content=DAGkgk0WPu4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Background
 Streaming Machine Learning is a paradigm for processing data in real time, continuously adapting the model to new information. This approach is particularly useful in scenarios where data arrive in continuous streams and it is not practical or possible to re-train the model on the entire accumulated dataset.
 
